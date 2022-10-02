@@ -1,0 +1,17 @@
+from .userCreateView import UserCreateView
+from .userDetailView import UserDetailView
+from .personaCreateView import PersonaCreateView
+from .personaDetailView import PersonaDetailView
+from .pacienteCreateView import PacienteCreateView
+from .pacienteDetailView import PacienteDetailView
+from .familiarCreateView import FamiliarCreateView
+from .familiarDetailView import FamiliarDetailView
+from .personalMedicoCreateView import PersonalmedicoCreateView
+from .personalMedicoDetailView import PersonalmedicoDetailView
+from .signosVitalesCreateView import SignosvitalesCreateView
+from .signosVitalesDetailView import SignosvitalesDetailView
+from .diagnosticoCreateView import DiagnosticoCreateView
+from .diagnosticoDetailView import DiagnosticoDetailView
+from .historiaClinicaCreateView import HistoriaclinicaCreateView
+from .historiaClinicaDetailView import HistoriaclinicaDetailView
+ 
